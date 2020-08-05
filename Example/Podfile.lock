@@ -1,0 +1,16 @@
+PODS:
+  - Hybrid1 (0.1.0)
+
+DEPENDENCIES:
+  - Hybrid1 (from `../`)
+
+EXTERNAL SOURCES:
+  Hybrid1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hybrid1: 3d12fc94902a051ba5fc0429c892c3f91d4efcb2
+
+PODFILE CHECKSUM: ca4ad75fcf23a5a052f5236b7dd36ed6672873c3
+
+COCOAPODS: 1.9.3

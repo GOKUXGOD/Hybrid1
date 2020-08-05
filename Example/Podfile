@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Hybrid1_Example' do
+  pod 'Hybrid1', :path => '../'
+
+  target 'Hybrid1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
